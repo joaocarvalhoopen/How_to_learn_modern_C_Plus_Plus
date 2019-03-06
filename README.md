@@ -1,6 +1,6 @@
 # How to learn modern C++
 <br>
-First to learn modern C++ you have to choose an operating system, the C++ is the some in all of them but the settings and the libs used are different. In this tutorial I focus on the development in Linux, but the info can also be useful for other operating systems. <br>
+First to learn modern C++ you have to choose an operating system, the C++ is the same in all of them but the settings and the libs used are different. In this guide I focus on the development in Linux, but the info can also be useful for other operating systems. <br>
 
 * In this context we start by installing Ubuntu Linux, as a stand alone machine or as a virtual machine. <br>
 [Ubuntu](https://www.ubuntu.com/download/desktop) <br>
