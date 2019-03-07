@@ -41,6 +41,13 @@ sudo apt-get install cmake<br>
 [Physically Based Rendering: From Theory to Implementation 3rd Edition by Matt Pharr, Wenzel Jakob, Greg Humphreys](http://www.pbr-book.org/) <br>
 [Github with the project code](https://github.com/mmp/pbrt-v3)
 
+* Two good online references for the STL (Standard Template Library). <br>
+[Microsoft C++ Standard Library Reference](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference) <br>
+[C++ reference at cppreference.com](https://en.cppreference.com/w/cpp)
+
+* A good book on C++ concurrency. <br>
+[C++ Concurrency in Action 2nd Edition by Anthony Williams](https://www.amazon.com/C-Concurrency-Action-Anthony-Williams/dp/1617294691/ref=sr_1_1) 
+
 If you do all this steps you will have a good knowledge of C++ and can start doing large problems in C++. <br>
 
 Have fun! <br> 
