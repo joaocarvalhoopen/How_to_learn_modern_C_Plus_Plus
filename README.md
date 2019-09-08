@@ -47,9 +47,10 @@ sudo apt-get install cmake<br>
 [Physically Based Rendering: From Theory to Implementation 3rd Edition by Matt Pharr, Wenzel Jakob, Greg Humphreys](http://www.pbr-book.org/) <br>
 [Github with the project code](https://github.com/mmp/pbrt-v3)
 
-* Two good online references for the STL (Standard Template Library). <br>
+* Three good online references for the STL (Standard Template Library). <br>
 [Microsoft C++ Standard Library Reference](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference) <br>
-[C++ reference at cppreference.com](https://en.cppreference.com/w/cpp)
+[C++ reference at cppreference.com](https://en.cppreference.com/w/cpp) <br>
+[105 STL Algorithms in Less Than an Hour - CppCon 2018: Jonathan Boccara](https://www.youtube.com/watch?v=2olsGf6JIkU) <br>
 
 * A good book on C++ concurrency. <br>
 [C++ Concurrency in Action 2nd Edition by Anthony Williams](https://www.amazon.com/C-Concurrency-Action-Anthony-Williams/dp/1617294691/ref=sr_1_1) 
