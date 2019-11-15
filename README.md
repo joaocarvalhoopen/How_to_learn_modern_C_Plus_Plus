@@ -30,6 +30,9 @@ sudo apt-get install cmake<br>
 [Visual Studio Code C++ Quick Start](http://zompi.pl/visual-studio-code-c-quick-start/) <br>
 [Quick start to CMake](http://zompi.pl/quick-start-to-cmake/)
 
+* Study the video on C++ from Derek Banas on youtube that summarizes the main features of the programming language. <br>
+[C++ Tutorial 2019](https://www.youtube.com/watch?v=6y0bp-mnYU0)
+
 * Read the following small book on C++ from the inventor of C++, Bjarne Stroustrup. This book is updated with the Standard C++ 17. It has to be the second edition. While reading the book do many experiments with code from the book and make variations to the code in Visual Studio Code. <br>
 [A Tour of C++ 2nd Edition by Bjarne Stroustrup](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/ref=sr_1_1?) 
 
