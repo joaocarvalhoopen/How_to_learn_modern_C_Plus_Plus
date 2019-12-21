@@ -60,6 +60,9 @@ sudo apt-get install cmake<br>
 
 If you do all this steps you will have a good knowledge of C++ and can start doing large problems in C++. <br>
 
+## Links
+* [Simple, zero-dependency garbage collection for C - mkirchner/gc](https://github.com/mkirchner/gc)
+
 Have fun! <br> 
 
 Best regards,<br>
