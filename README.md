@@ -45,7 +45,7 @@ sudo apt-get install cmake<br>
 * Read the following free ebook to learn about algorithms. <br>
 [Competitive Programmer's Handbook by Antti Laaksonen](https://github.com/pllk/cphb/)
 
-* To really understand a programming language and the craft of programming, it's necessary to study large programs, how they are implemented, what where the options, what where the decisions, to study the program's architecture. If possible, the large program should be well documented and well made! The following free book and repository are an excellent example of the craft of programming of a large scale system with high performance. <br>
+* To really understand a programming language and the craft of programming, it's necessary to study large programs, how they are implemented, what were the options, what were the decisions, to study the program's architecture. If possible, the large program should be well documented and well made! The following free book and repository are an excellent example of the craft of programming of a large scale system with high performance. <br>
 "This book has deservedly won an Academy Award. I believe it should also be nominated for a Pulitzer Prize." -- Donald Knuth  <br>
 [Physically Based Rendering: From Theory to Implementation 3rd Edition by Matt Pharr, Wenzel Jakob, Greg Humphreys](http://www.pbr-book.org/) <br>
 [Github with the project code](https://github.com/mmp/pbrt-v3)
