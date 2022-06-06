@@ -47,7 +47,7 @@ sudo apt-get install cmake
 
 * C++ linter - **cppcheck** <br>
   [cppcheck - A tool for static C or C++ code analysis](https://cppcheck.sourceforge.io/) <br>
-  [Github Cppcheck](https://github.com/danmar/cppcheck)
+  [Github cppcheck](https://github.com/danmar/cppcheck)
 
 * C++ Weekly with Jason Turner - Youtube Channel <br>
   [C++ Weekly with Jason Turner](https://www.youtube.com/c/lefticus1/videos) 
