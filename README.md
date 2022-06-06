@@ -72,7 +72,7 @@ sudo apt-get install cmake
 
 * Read the following about design patterns. <br>
   **Design Patterns: Elements of Reusable Object-Oriented Software** <br>
-  by Erich Gamma , Richard Helm and others <br
+  by Erich Gamma , Richard Helm and others <br>
   1994
 
 * Read the following free ebook to learn about algorithms. <br>
@@ -86,7 +86,7 @@ sudo apt-get install cmake
 * Three good online references for the STL (Standard Template Library). <br>
   [Microsoft C++ Standard Library Reference](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference) <br>
   [C++ reference at cppreference.com](https://en.cppreference.com/w/cpp) <br>
-  You can see it off line and alter it's CSS to make a dark mode in <br
+  You can see it off line and alter it's CSS to make a dark mode in <br>
   [https://en.cppreference.com/w/Cppreference:Archives](https://en.cppreference.com/w/Cppreference:Archives) <br>
   [105 STL Algorithms in Less Than an Hour - CppCon 2018: Jonathan Boccara](https://www.youtube.com/watch?v=2olsGf6JIkU) <br>
 
