@@ -45,6 +45,10 @@ sudo apt-get install cmake
   [JFrog Conan Center](https://conan.io/center/) <br>
   [Conan documentation](https://docs.conan.io/en/latest/introduction.html) <br>    
 
+* C++ linter - **cppcheck** <br>
+  [cppcheck - A tool for static C or C++ code analysis](https://cppcheck.sourceforge.io/) <br>
+  [Github Cppcheck](https://github.com/danmar/cppcheck)
+
 * C++ Weekly with Jason Turner - Youtube Channel <br>
   [C++ Weekly with Jason Turner](https://www.youtube.com/c/lefticus1/videos) 
 
